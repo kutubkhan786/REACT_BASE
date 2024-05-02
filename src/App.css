@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Roboto, sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    width: 100%;
+    box-shadow: none;
+}
+
+.HomeSection {
+    background-color: rgb(241, 34, 34);
+    height: 100%;
+}
+
+.AboutSection {
+    background-color: #f8a92c;
+    height: 100%;
+}
+
+.GallerySection {
+    background-color: rgb(194, 227, 31);
+    height: 100%;
+}
+
+.TestimonialSection {
+    background-color: rgb(168, 210, 215);
+    height: 100%;
+}
+
+.ArtistSection {
+    background-color: rgb(134, 124, 124);
+    height: 100%;
+}
+
+.BlogSection {
+    background-color: blueviolet;
+    height: 100%;
+}
+
+.ContactSection {
+    background-color: rgb(0, 164, 14);
+    height: 100%;
+}
+
+
+/* .contactPage {
+background-color: grey;
+height: 200px;
+} */
+
+.footer {
+    background-color: pink;
+    height: 100%;
+}
